@@ -1,1 +1,1 @@
-![[Desafio de Resistência.png]]
+![[content/Desafio de Resistência.png]]
