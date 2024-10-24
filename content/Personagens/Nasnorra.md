@@ -1,1 +1,1 @@
-Nasnorra teste
+![[Desafio de Resistência.png]]
