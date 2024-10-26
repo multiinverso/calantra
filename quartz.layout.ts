@@ -21,7 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.MobileOnly(Component.Explorer()),
+    Component.MobileOnly(Component.Explorer({folderDefaultState:"collapsed"})),
     Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
